@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\bin\Debug\net8.0\02. Division.exe
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\bin\Debug\net8.0\02. Division.deps.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\bin\Debug\net8.0\02. Division.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\bin\Debug\net8.0\02. Division.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\bin\Debug\net8.0\02. Division.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\obj\Debug\net8.0\02. Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\obj\Debug\net8.0\02. Division.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\obj\Debug\net8.0\02. Division.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\obj\Debug\net8.0\02. Division.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\obj\Debug\net8.0\02. Division.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\obj\Debug\net8.0\refint\02. Division.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\obj\Debug\net8.0\02. Division.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\obj\Debug\net8.0\02. Division.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\02. Division\obj\Debug\net8.0\ref\02. Division.dll

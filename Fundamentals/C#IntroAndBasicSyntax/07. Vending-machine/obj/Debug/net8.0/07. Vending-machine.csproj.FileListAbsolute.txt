@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\obj\Debug\net8.0\07. Vending-machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\obj\Debug\net8.0\07. Vending-machine.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\obj\Debug\net8.0\07. Vending-machine.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\obj\Debug\net8.0\07. Vending-machine.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\bin\Debug\net8.0\07. Vending-machine.exe
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\bin\Debug\net8.0\07. Vending-machine.deps.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\bin\Debug\net8.0\07. Vending-machine.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\bin\Debug\net8.0\07. Vending-machine.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\bin\Debug\net8.0\07. Vending-machine.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\obj\Debug\net8.0\07. Vending-machine.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\obj\Debug\net8.0\refint\07. Vending-machine.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\obj\Debug\net8.0\07. Vending-machine.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\obj\Debug\net8.0\07. Vending-machine.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\07. Vending-machine\obj\Debug\net8.0\ref\07. Vending-machine.dll

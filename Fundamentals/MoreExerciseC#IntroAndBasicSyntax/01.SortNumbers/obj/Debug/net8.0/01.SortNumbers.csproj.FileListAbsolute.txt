@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.exe
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.deps.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\bin\Debug\net8.0\01.SortNumbers.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\obj\Debug\net8.0\refint\01.SortNumbers.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\obj\Debug\net8.0\01.SortNumbers.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\01.SortNumbers\obj\Debug\net8.0\ref\01.SortNumbers.dll
