@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\bin\Debug\net8.0\02.Race.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\bin\Debug\net8.0\02.Race.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\bin\Debug\net8.0\02.Race.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\bin\Debug\net8.0\02.Race.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\bin\Debug\net8.0\02.Race.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\obj\Debug\net8.0\02.Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\obj\Debug\net8.0\02.Race.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\obj\Debug\net8.0\02.Race.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\obj\Debug\net8.0\02.Race.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\obj\Debug\net8.0\02.Race.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\obj\Debug\net8.0\refint\02.Race.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\obj\Debug\net8.0\02.Race.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\obj\Debug\net8.0\02.Race.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\Regular Expressions\02.Race\obj\Debug\net8.0\ref\02.Race.dll

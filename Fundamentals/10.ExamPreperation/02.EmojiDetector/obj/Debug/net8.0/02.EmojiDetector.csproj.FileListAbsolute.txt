@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\obj\Debug\net8.0\02.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\obj\Debug\net8.0\02.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\obj\Debug\net8.0\02.EmojiDetector.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\obj\Debug\net8.0\02.EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\bin\Debug\net8.0\02.EmojiDetector.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\bin\Debug\net8.0\02.EmojiDetector.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\bin\Debug\net8.0\02.EmojiDetector.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\bin\Debug\net8.0\02.EmojiDetector.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\bin\Debug\net8.0\02.EmojiDetector.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\obj\Debug\net8.0\02.EmojiDetector.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\obj\Debug\net8.0\refint\02.EmojiDetector.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\obj\Debug\net8.0\02.EmojiDetector.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\obj\Debug\net8.0\02.EmojiDetector.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.EmojiDetector\obj\Debug\net8.0\ref\02.EmojiDetector.dll

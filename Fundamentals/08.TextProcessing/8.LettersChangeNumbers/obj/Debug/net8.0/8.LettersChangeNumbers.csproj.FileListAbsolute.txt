@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\bin\Debug\net8.0\8.LettersChangeNumbers.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\bin\Debug\net8.0\8.LettersChangeNumbers.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\bin\Debug\net8.0\8.LettersChangeNumbers.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\bin\Debug\net8.0\8.LettersChangeNumbers.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\bin\Debug\net8.0\8.LettersChangeNumbers.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\obj\Debug\net8.0\8.LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\obj\Debug\net8.0\8.LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\obj\Debug\net8.0\8.LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\obj\Debug\net8.0\8.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\obj\Debug\net8.0\8.LettersChangeNumbers.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\obj\Debug\net8.0\refint\8.LettersChangeNumbers.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\obj\Debug\net8.0\8.LettersChangeNumbers.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\obj\Debug\net8.0\8.LettersChangeNumbers.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\8.LettersChangeNumbers\obj\Debug\net8.0\ref\8.LettersChangeNumbers.dll

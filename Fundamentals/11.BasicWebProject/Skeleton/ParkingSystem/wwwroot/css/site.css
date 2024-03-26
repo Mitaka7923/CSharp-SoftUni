@@ -1,0 +1,54 @@
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+content {
+    display: flex;
+    justify-content: flex-start;
+    width: 60em;
+    height: 5em;
+    margin-bottom: 2em;
+}
+
+.cars-table {
+    align-content: flex-start;
+    height: 2.5em;
+}
+
+.cars-table * {
+    width: 20em;
+}
+
+.col * {
+    width: 5em;
+    padding-right: 10px;
+}
+
+.alert-danger {
+    width: 17em;
+    margin-top: 20px;
+}
+
+.form-group *{
+    width: 17em;
+}
+
+input.btn-danger {
+    width: 9em;
+}
+
+#delete-button {
+    width: 5em;
+}
+
+
+#plate-number-col {
+    text-align: center;
+}
+
+#plate-number {
+    color: darkred;
+    text-align: center;
+}

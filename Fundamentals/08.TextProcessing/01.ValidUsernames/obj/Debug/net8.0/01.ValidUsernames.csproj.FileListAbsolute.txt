@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\bin\Debug\net8.0\01.ValidUsernames.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\bin\Debug\net8.0\01.ValidUsernames.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\bin\Debug\net8.0\01.ValidUsernames.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\bin\Debug\net8.0\01.ValidUsernames.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\bin\Debug\net8.0\01.ValidUsernames.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\obj\Debug\net8.0\01.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\obj\Debug\net8.0\01.ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\obj\Debug\net8.0\01.ValidUsernames.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\obj\Debug\net8.0\01.ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\obj\Debug\net8.0\01.ValidUsernames.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\obj\Debug\net8.0\refint\01.ValidUsernames.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\obj\Debug\net8.0\01.ValidUsernames.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\obj\Debug\net8.0\01.ValidUsernames.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\01.ValidUsernames\obj\Debug\net8.0\ref\01.ValidUsernames.dll

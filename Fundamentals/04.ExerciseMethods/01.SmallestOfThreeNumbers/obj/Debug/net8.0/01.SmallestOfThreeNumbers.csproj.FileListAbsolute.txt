@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\bin\Debug\net8.0\01.SmallestOfThreeNumbers.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\obj\Debug\net8.0\refint\01.SmallestOfThreeNumbers.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\obj\Debug\net8.0\01.SmallestOfThreeNumbers.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseMethods\01.SmallestOfThreeNumbers\obj\Debug\net8.0\ref\01.SmallestOfThreeNumbers.dll

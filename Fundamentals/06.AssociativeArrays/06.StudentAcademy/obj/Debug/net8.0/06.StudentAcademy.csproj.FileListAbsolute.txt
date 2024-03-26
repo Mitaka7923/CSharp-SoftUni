@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\obj\Debug\net8.0\refint\06.StudentAcademy.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\06.StudentAcademy\obj\Debug\net8.0\ref\06.StudentAcademy.dll

@@ -1,0 +1,76 @@
+Software development concepts #2
+
+DOM  -> document object model
+	-> DOM API allows changing the DOM from JS
+! AJAX -> asynchronus javascript and xml
+	-> used to change only one piece from the page without refreshing
+! RESTful APIs are HTTP-based Web services that return small amount of needed information
+	-> (GET POST PUT DELETE) (retrieve create modify delete) data
+Template engines -> render data as HTML through a template
+	-> React, Vue, Angular
+	-> have specific syntax
+	-> dynamically render and generate html
+!!!! CREATE A PROJECT -> API -> server request response [ github.com zahariev-webbersof -> https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Fetching%20GitHub%20User's%20Repositories%20Information.md ]
+
+GUI -> provide forms, dialogs and UI controls for desktop and mobile apps
+	-> Windows Forms, XAML, WPF, (Qt?)
+Libraries provide components/functionallity/ ui controls for integration into existing apps
+Frameworks provide a base/foundation which developers extend to build an app
+
+React is a powerful JS library used for building Web UI using HTML CSS AND JS
+	-> Modern UI/dynamic
+Hybrid mobile apps -> Cordova
+React Native is using maily JS and a small amound of the code to be written in React
+
+Back-end technologies are about server-side programming
+!!!! Data management technologies and ORM frameworkds\
+
+!!!! REST API frameworks, reactive APIs
+
+!!!! Microservices, containers and cloud
+	-> Hard for beginners to get
+Back-end developers work on the server-side
+	-> business logic, APIs, data processing, data storage
+
+Relational databases (RDBMS)
+	-> tables + relationships
+	-> MySQL, PostgreSQL, Web SQL
+NoSQL databases
+	-> holds collections of documents or key-value pairs
+	-> MongoDB, IndexedDB
+!!!! Object-relational mapping frameworks
+	C# -> Entity Framework
+	Java -> Hibernate
+	JS -> Sequelize
+
+!!!! MVC -> Controller (handles user actions, updates the model and renders the UI view)
+       Model holds the app data
+       View displays the UI, based on the model data
+Web MVC framewordks are used build Web applications
+	Controllers handle HTTP GET / POST and render a view
+	Views display HTML AND CSS 
+	Models hold app data for views prepared by controllers
+!!!! ASP.NET MVC Example
+!!!! Small project to build a web app -> Add student, Display students
+
+Virtualization and Cloud 
+Virtualization == running a virtual machine VM 
+Cloud == computing resources, vms, storage, platforms and software instances, available on demand
+	-> IaaS (inftastructure as a service) - virtual machines on demand
+	-> PaaS (platform as a service) - app development environments
+	-> SaaS (software as a service) - software instances, e.g. Office 365\
+Container image == software packed with its dependencies, designed to run in a virtual environment (like DOcker)
+	-> e.g. WordPress instance (Linux + PHP + Apache + WordPress)
+	-> Simplified installation, configuration and deployment
+Docker is the most popular containerization platform
+	-> Runs containers from local image or downloaded from the Docker Hub online repo
+	-> Open-source, runs on Linux, Windows, Mac
+ 
+!!!! Container is an independent package
+	-> They rationalize a process for installing and configurating or importing an app
+	-> Save resourses and time !!!!
+
+!!!! Linux shell commands or windows powershell learn when is interesting
+!!!! freecodecamp.com cmd commands INTERESTING shell commands
+
+ 

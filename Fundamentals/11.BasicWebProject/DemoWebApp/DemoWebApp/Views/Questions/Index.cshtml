@@ -1,0 +1,14 @@
+﻿@model List<Question>
+@{
+    ViewData["Title"] = "Questions Page";
+}
+
+<div>
+    <h5>Hello from questions</h5>
+</div>
+<div>
+    @foreach (var question in this.Model)
+    {
+        <p>[@question.ID] - [@question.Author] - [@question.Text]</p>
+    }
+</div>

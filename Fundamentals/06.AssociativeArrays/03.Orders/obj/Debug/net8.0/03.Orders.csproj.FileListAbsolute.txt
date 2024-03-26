@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\bin\Debug\net8.0\03.Orders.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\bin\Debug\net8.0\03.Orders.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\bin\Debug\net8.0\03.Orders.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\bin\Debug\net8.0\03.Orders.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\bin\Debug\net8.0\03.Orders.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\obj\Debug\net8.0\03.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\obj\Debug\net8.0\03.Orders.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\obj\Debug\net8.0\03.Orders.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\obj\Debug\net8.0\03.Orders.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\obj\Debug\net8.0\03.Orders.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\obj\Debug\net8.0\refint\03.Orders.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\obj\Debug\net8.0\03.Orders.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\obj\Debug\net8.0\03.Orders.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\03.Orders\obj\Debug\net8.0\ref\03.Orders.dll

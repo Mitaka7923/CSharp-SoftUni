@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\bin\Debug\net8.0\11.Snowballs.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\bin\Debug\net8.0\11.Snowballs.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\bin\Debug\net8.0\11.Snowballs.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\bin\Debug\net8.0\11.Snowballs.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\bin\Debug\net8.0\11.Snowballs.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\obj\Debug\net8.0\11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\obj\Debug\net8.0\11.Snowballs.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\obj\Debug\net8.0\11.Snowballs.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\obj\Debug\net8.0\11.Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\obj\Debug\net8.0\11.Snowballs.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\obj\Debug\net8.0\refint\11.Snowballs.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\obj\Debug\net8.0\11.Snowballs.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\obj\Debug\net8.0\11.Snowballs.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExerciseDataTypesandVariables\11.Snowballs\obj\Debug\net8.0\ref\11.Snowballs.dll

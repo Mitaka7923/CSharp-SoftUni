@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\bin\Debug\net8.0\03.BakeryShop.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\bin\Debug\net8.0\03.BakeryShop.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\bin\Debug\net8.0\03.BakeryShop.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\bin\Debug\net8.0\03.BakeryShop.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\bin\Debug\net8.0\03.BakeryShop.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\obj\Debug\net8.0\03.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\obj\Debug\net8.0\03.BakeryShop.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\obj\Debug\net8.0\03.BakeryShop.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\obj\Debug\net8.0\03.BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\obj\Debug\net8.0\03.BakeryShop.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\obj\Debug\net8.0\refint\03.BakeryShop.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\obj\Debug\net8.0\03.BakeryShop.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\obj\Debug\net8.0\03.BakeryShop.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.BakeryShop\obj\Debug\net8.0\ref\03.BakeryShop.dll

@@ -1,0 +1,4 @@
+Associative arrays
+
+!!!! Important syntax -> dictionary if exists -> update, if not -> create and set value dictionary[key] = value;
+
