@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\bin\Debug\net8.0\07.TruckTour.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\bin\Debug\net8.0\07.TruckTour.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\bin\Debug\net8.0\07.TruckTour.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\bin\Debug\net8.0\07.TruckTour.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\bin\Debug\net8.0\07.TruckTour.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\obj\Debug\net8.0\07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\obj\Debug\net8.0\07.TruckTour.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\obj\Debug\net8.0\07.TruckTour.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\obj\Debug\net8.0\07.TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\obj\Debug\net8.0\07.TruckTour.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\obj\Debug\net8.0\refint\07.TruckTour.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\obj\Debug\net8.0\07.TruckTour.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\obj\Debug\net8.0\07.TruckTour.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\07.TruckTour\obj\Debug\net8.0\ref\07.TruckTour.dll

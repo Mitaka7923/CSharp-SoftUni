@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\BasicWebProject\\Skeleton\\ParkingSystem\\ParkingSystem.csproj": {}
+    "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\11.BasicWebProject\\Skeleton\\ParkingSystem\\ParkingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\BasicWebProject\\Skeleton\\ParkingSystem\\ParkingSystem.csproj": {
+    "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\11.BasicWebProject\\Skeleton\\ParkingSystem\\ParkingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\BasicWebProject\\Skeleton\\ParkingSystem\\ParkingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\11.BasicWebProject\\Skeleton\\ParkingSystem\\ParkingSystem.csproj",
         "projectName": "ParkingSystem",
-        "projectPath": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\BasicWebProject\\Skeleton\\ParkingSystem\\ParkingSystem.csproj",
+        "projectPath": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\11.BasicWebProject\\Skeleton\\ParkingSystem\\ParkingSystem.csproj",
         "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\BasicWebProject\\Skeleton\\ParkingSystem\\obj\\",
+        "outputPath": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Fundamentals\\11.BasicWebProject\\Skeleton\\ParkingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

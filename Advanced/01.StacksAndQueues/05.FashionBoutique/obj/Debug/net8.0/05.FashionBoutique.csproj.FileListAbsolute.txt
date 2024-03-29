@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\obj\Debug\net8.0\refint\05.FashionBoutique.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Advanced\01.StacksAndQueues\05.FashionBoutique\obj\Debug\net8.0\ref\05.FashionBoutique.dll
