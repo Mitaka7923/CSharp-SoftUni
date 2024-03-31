@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\obj\Debug\net8.0\refint\04.SoftUniParking.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\04.SoftUniParking\obj\Debug\net8.0\ref\04.SoftUniParking.dll

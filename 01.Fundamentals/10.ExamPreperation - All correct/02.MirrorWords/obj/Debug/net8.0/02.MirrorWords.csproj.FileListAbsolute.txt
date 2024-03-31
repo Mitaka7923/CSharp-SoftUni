@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\obj\Debug\net8.0\refint\02.MirrorWords.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\02.MirrorWords\obj\Debug\net8.0\ref\02.MirrorWords.dll

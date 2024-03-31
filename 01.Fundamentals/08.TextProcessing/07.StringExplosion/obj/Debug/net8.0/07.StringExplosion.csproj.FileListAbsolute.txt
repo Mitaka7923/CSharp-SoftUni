@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\obj\Debug\net8.0\refint\07.StringExplosion.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\07.StringExplosion\obj\Debug\net8.0\ref\07.StringExplosion.dll

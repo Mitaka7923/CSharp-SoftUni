@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\obj\Debug\net8.0\refint\07.CompanyUsers.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\AssociativeArrays\07.CompanyUsers\obj\Debug\net8.0\ref\07.CompanyUsers.dll

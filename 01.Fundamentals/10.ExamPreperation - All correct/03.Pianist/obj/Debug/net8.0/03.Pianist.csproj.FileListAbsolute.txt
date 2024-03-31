@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\obj\Debug\net8.0\03.Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\obj\Debug\net8.0\03.Pianist.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\obj\Debug\net8.0\03.Pianist.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\obj\Debug\net8.0\03.Pianist.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\bin\Debug\net8.0\03.Pianist.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\bin\Debug\net8.0\03.Pianist.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\bin\Debug\net8.0\03.Pianist.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\bin\Debug\net8.0\03.Pianist.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\bin\Debug\net8.0\03.Pianist.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\obj\Debug\net8.0\03.Pianist.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\obj\Debug\net8.0\refint\03.Pianist.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\obj\Debug\net8.0\03.Pianist.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\obj\Debug\net8.0\03.Pianist.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\ExamPreperation\03.Pianist\obj\Debug\net8.0\ref\03.Pianist.dll

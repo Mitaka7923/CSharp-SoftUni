@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\bin\Debug\net8.0\01.DataTypeFinder.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\bin\Debug\net8.0\01.DataTypeFinder.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\bin\Debug\net8.0\01.DataTypeFinder.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\bin\Debug\net8.0\01.DataTypeFinder.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\bin\Debug\net8.0\01.DataTypeFinder.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\obj\Debug\net8.0\01.DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\obj\Debug\net8.0\01.DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\obj\Debug\net8.0\01.DataTypeFinder.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\obj\Debug\net8.0\01.DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\obj\Debug\net8.0\01.DataTypeFinder.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\obj\Debug\net8.0\refint\01.DataTypeFinder.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\obj\Debug\net8.0\01.DataTypeFinder.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\obj\Debug\net8.0\01.DataTypeFinder.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\MoreExerciseDataTypesandVariables\01.DataTypeFinder\obj\Debug\net8.0\ref\01.DataTypeFinder.dll

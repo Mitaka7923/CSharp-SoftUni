@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\bin\Debug\net8.0\05.Messages.exe
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\bin\Debug\net8.0\05.Messages.deps.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\bin\Debug\net8.0\05.Messages.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\bin\Debug\net8.0\05.Messages.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\bin\Debug\net8.0\05.Messages.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\obj\Debug\net8.0\05.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\obj\Debug\net8.0\05.Messages.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\obj\Debug\net8.0\05.Messages.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\obj\Debug\net8.0\05.Messages.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\obj\Debug\net8.0\05.Messages.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\obj\Debug\net8.0\refint\05.Messages.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\obj\Debug\net8.0\05.Messages.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\obj\Debug\net8.0\05.Messages.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\MoreExerciseC#IntroandBasic Syntax\05.Messages\obj\Debug\net8.0\ref\05.Messages.dll

@@ -1,0 +1,22 @@
+﻿@using SliDo.Models.Home
+
+@model List<IndexViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    @foreach (var question in Model)
+    {
+        <div class="card mt-3">
+            <div class="card-body">
+                <h5 class="card-title">@question.Author</h5>
+                <p class="card-text">@question.Text</p>
+                @if (this.User.Identity.IsAuthenticated)
+                {
+                    <a type="submit" class="btn btn-outline-primary" asp-area="" asp-controller="Questions" asp-action="Delete" asp-route-id="@question.Id">Mark as answered</a>
+                }
+            </div>
+        </div>
+    }
+</div>

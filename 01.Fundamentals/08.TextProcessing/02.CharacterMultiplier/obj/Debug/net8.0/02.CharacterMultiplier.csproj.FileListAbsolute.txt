@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\refint\02.CharacterMultiplier.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\02.CharacterMultiplier\obj\Debug\net8.0\ref\02.CharacterMultiplier.dll

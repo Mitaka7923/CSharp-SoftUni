@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.exe
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.deps.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\obj\Debug\net8.0\refint\03.ExtractFile.dll
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.pdb
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\CSharp-SoftUni\Fundamentals\TextProcessing\03.ExtractFile\obj\Debug\net8.0\ref\03.ExtractFile.dll

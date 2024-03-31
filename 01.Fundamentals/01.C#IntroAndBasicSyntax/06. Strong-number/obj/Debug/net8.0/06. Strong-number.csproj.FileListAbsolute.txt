@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\obj\Debug\net8.0\06. Strong-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\obj\Debug\net8.0\06. Strong-number.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\obj\Debug\net8.0\06. Strong-number.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\obj\Debug\net8.0\06. Strong-number.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\bin\Debug\net8.0\06. Strong-number.exe
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\bin\Debug\net8.0\06. Strong-number.deps.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\bin\Debug\net8.0\06. Strong-number.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\bin\Debug\net8.0\06. Strong-number.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\bin\Debug\net8.0\06. Strong-number.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\obj\Debug\net8.0\06. Strong-number.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\obj\Debug\net8.0\refint\06. Strong-number.dll
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\obj\Debug\net8.0\06. Strong-number.pdb
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\obj\Debug\net8.0\06. Strong-number.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Learning\Fundamentals\Homework-Basic-Syntax\06. Strong-number\obj\Debug\net8.0\ref\06. Strong-number.dll
