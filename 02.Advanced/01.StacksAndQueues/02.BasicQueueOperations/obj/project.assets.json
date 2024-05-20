@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Advanced\\01.StacksAndQueues\\02.BasicQueueOperations\\02.BasicQueueOperations.csproj",
+      "projectUniqueName": "C:\\Users\\Dimitar\\Desktop\\Work\\Learning\\CSharp-SoftUni\\02.Advanced\\01.StacksAndQueues\\02.BasicQueueOperations\\02.BasicQueueOperations.csproj",
       "projectName": "02.BasicQueueOperations",
-      "projectPath": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Advanced\\01.StacksAndQueues\\02.BasicQueueOperations\\02.BasicQueueOperations.csproj",
+      "projectPath": "C:\\Users\\Dimitar\\Desktop\\Work\\Learning\\CSharp-SoftUni\\02.Advanced\\01.StacksAndQueues\\02.BasicQueueOperations\\02.BasicQueueOperations.csproj",
       "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Advanced\\01.StacksAndQueues\\02.BasicQueueOperations\\obj\\",
+      "outputPath": "C:\\Users\\Dimitar\\Desktop\\Work\\Learning\\CSharp-SoftUni\\02.Advanced\\01.StacksAndQueues\\02.BasicQueueOperations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

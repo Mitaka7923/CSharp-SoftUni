@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\bin\Debug\net8.0\10.Crossroads.exe
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\bin\Debug\net8.0\10.Crossroads.deps.json
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\bin\Debug\net8.0\10.Crossroads.runtimeconfig.json
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\bin\Debug\net8.0\10.Crossroads.dll
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\bin\Debug\net8.0\10.Crossroads.pdb
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\obj\Debug\net8.0\10.Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\obj\Debug\net8.0\10.Crossroads.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\obj\Debug\net8.0\10.Crossroads.AssemblyInfo.cs
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\obj\Debug\net8.0\10.Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\obj\Debug\net8.0\10.Crossroads.dll
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\obj\Debug\net8.0\refint\10.Crossroads.dll
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\obj\Debug\net8.0\10.Crossroads.pdb
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\obj\Debug\net8.0\10.Crossroads.genruntimeconfig.cache
+C:\Users\Dimitar\Desktop\Work\Learning\CSharp-SoftUni\02.Advanced\01.StacksAndQueues\10.Crossroads\obj\Debug\net8.0\ref\10.Crossroads.dll

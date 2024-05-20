@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Advanced\\01.StacksAndQueues\\04.FastFood\\04.FastFood.csproj": {}
+    "C:\\Users\\Dimitar\\Desktop\\Work\\Learning\\CSharp-SoftUni\\02.Advanced\\01.StacksAndQueues\\04.FastFood\\04.FastFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Advanced\\01.StacksAndQueues\\04.FastFood\\04.FastFood.csproj": {
+    "C:\\Users\\Dimitar\\Desktop\\Work\\Learning\\CSharp-SoftUni\\02.Advanced\\01.StacksAndQueues\\04.FastFood\\04.FastFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Advanced\\01.StacksAndQueues\\04.FastFood\\04.FastFood.csproj",
+        "projectUniqueName": "C:\\Users\\Dimitar\\Desktop\\Work\\Learning\\CSharp-SoftUni\\02.Advanced\\01.StacksAndQueues\\04.FastFood\\04.FastFood.csproj",
         "projectName": "04.FastFood",
-        "projectPath": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Advanced\\01.StacksAndQueues\\04.FastFood\\04.FastFood.csproj",
+        "projectPath": "C:\\Users\\Dimitar\\Desktop\\Work\\Learning\\CSharp-SoftUni\\02.Advanced\\01.StacksAndQueues\\04.FastFood\\04.FastFood.csproj",
         "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dimitar\\Desktop\\Learning\\CSharp-SoftUni\\Advanced\\01.StacksAndQueues\\04.FastFood\\obj\\",
+        "outputPath": "C:\\Users\\Dimitar\\Desktop\\Work\\Learning\\CSharp-SoftUni\\02.Advanced\\01.StacksAndQueues\\04.FastFood\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
